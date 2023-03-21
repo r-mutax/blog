@@ -1,0 +1,4 @@
+baseURL = 'http://r-mutax.github.io/blog'
+languageCode = 'ja'
+title = 'My Blog'
+theme = "ananke"
